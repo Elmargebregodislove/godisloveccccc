@@ -6,7 +6,7 @@ import App from "./App";
 const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <h1>httttha</h1>
   </React.StrictMode>,
   rootElement
 );
